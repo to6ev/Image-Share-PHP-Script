@@ -1,9 +1,9 @@
 # Image-Share-PHP-Script
-Picture Sharing Script - Create own "Image Share Website"
+Picture Sharing PHP Script - Create own "Image Share Website"
 
 Get it from:
 
-http://imgu.bl.ee
+http://imageshare.eti.pw
 
 or click on the button: 'Clone or Download'
 
