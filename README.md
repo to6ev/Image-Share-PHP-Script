@@ -3,8 +3,8 @@ Picture Sharing PHP Script - Create own "Image Share Website"
 
 Get it from:
 
-http://imageshare.eti.pw
+https://imageshare.eti.pw
 
-or click on the button: 'Clone'
+or click on the button: 'Code'
 
 www.eti.pw
